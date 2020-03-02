@@ -1,6 +1,8 @@
-body  {background-image: url(../ricepaper_v3.png);}
+body  {
+      background: url(ricepaper_v3.png);
       padding: 100px;
-      margin: 100px;}
+      margin: 100px;
+      }
 
 
 
