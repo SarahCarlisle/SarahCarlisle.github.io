@@ -1,12 +1,6 @@
-p {
-  color: red;
-}
-
-.box-one {
 background-image: url(../ricepaper_v3.png);
 padding: 100px;
 margin: 100px;
 
-background-size: cover;
-}
+
 
