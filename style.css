@@ -10,6 +10,10 @@ body  {
       float: right;
       }
 
+#content {
+	width: 800px;
+	margin: 40px auto 60px;
+
 .date {
       width: 50%;
       float: right;
