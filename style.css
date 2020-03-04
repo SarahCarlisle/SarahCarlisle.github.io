@@ -17,9 +17,11 @@ body  	{
 .job	{
 	width: 400px;
 	float: left;
+	margin:left
 	}
 
 .date	{
 	width: 400px;
 	float: left;
+	margin:right
 	}
