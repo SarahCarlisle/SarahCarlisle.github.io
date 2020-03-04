@@ -14,4 +14,14 @@ body  	{
 	margin: 40px auto 60px;
 	}
 
+.job	{
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	}
 
+.date	{
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	}
