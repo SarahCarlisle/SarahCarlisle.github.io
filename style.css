@@ -1,8 +1,9 @@
-body  {
-      background: url(ricepaper_v3.png);
-      padding: 25px;
-      margin: 25px;
-      }
+body  	{
+	font: 16px Caibri, Sans-Serif;      
+	background: url(ricepaper_v3.png);
+     	padding: 25px;
+      	margin: 25px;
+      	}
 
 #PictureSC {
       float: right;
