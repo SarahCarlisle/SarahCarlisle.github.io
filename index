@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 	<header>
@@ -10,10 +9,10 @@
 	</header>
 
 	<body>
-		<div id="content">                    
+	<div id="content">                    
 		<div class="title">
 		<h1>Sarah Lousie Carlisle</h1>
-        </div>
+        	</div>
 
         <div id="Contact-info">
 		<p class="tab">
@@ -21,8 +20,7 @@
 		<a href="https://www.linkedin.com/in/sarah-carlisle-442a7666/" target="_blank">LinkedIn</a>
 		<img width="150" src="ProfileSC.png" id="PictureSC"/>
                 </p>
-
-        </div>                                                          
+	</div>                                                          
 
                 <p class="tab"><b>I have a passion for developing individuals as well as a team who work effectively and efficiently and are centered toward achieving mutual goals.  One of my favorite compliments I received from a team member was, “I don’t know If anyone has told you this yet, but I really appreciate your organizational skills.  I feel like I actually have a direction now.”</b></p>
                 <hr/>
