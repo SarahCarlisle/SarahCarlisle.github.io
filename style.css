@@ -14,14 +14,13 @@ body  	{
 	margin: 40px auto 60px;
 	}
 
-.job	{
-	width: 600px;
+.column {
 	float: left;
-	margin:left
+	width: 50%;
 	}
 
-.date	{
-	width: 200px;
-	float: left;
-	margin:right
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
 	}
